@@ -1,4 +1,4 @@
-#📘 NLP with NLTK
+#📘NLP with NLTK
 
 This repository contains my implementations and experiments with **Natural Language Processing (NLP)** concepts using Python and NLTK.  
 It includes notebooks and scripts for text preprocessing, feature extraction, and word embeddings.

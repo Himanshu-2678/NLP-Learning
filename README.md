@@ -22,12 +22,12 @@ git clone https://github.com/Himanshu-2678/NLP-Learning.git
 cd NLP-Learning
 ```
 
-###Notes
+### Notes
 
 Large datasets (like Kindle_dataset) are not included due to size limits.
 Check code comments
 
-###Contributing
+### Contributing
 
 Contributions, issues, and feature requests are welcome.
 Feel free to fork this repo and submit a pull request.
